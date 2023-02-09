@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "This Folder is Protected"
+AuthUserFile "/home/starsall/.htpasswds/public_html/ecommercestarsnew/dbstoremap/passwd"
+require valid-user

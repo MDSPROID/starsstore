@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap:https://starsstore.id/sitemap.xml
+Sitemap:https://starsstore.id/sitemap_1.xml
